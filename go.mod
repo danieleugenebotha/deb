@@ -1,3 +1,3 @@
-module github.com/danieleugenebotha/go-log
+module github.com/danieleugenebotha/log
 
 go 1.15
